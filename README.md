@@ -224,7 +224,7 @@ AVERAGEX(
 SUMMARIZECOLUMNS(
 
 'Customer'[Name],
-
+    
 "mValues",
 
 calculate(
